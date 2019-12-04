@@ -39,3 +39,7 @@ Run the beow command to send the request with some pre-popuated values -
 ```
 python request.py
 ```
+
+## Added 2 more column to the dataset as amcat_score and cgpa...
+
+Requirement : need to change the front view.....
